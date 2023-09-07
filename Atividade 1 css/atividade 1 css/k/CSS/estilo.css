@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+
+h1, p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#d1{
+    color: aquamarine;
+}
+#d2{
+    text-align: right;
+    color: brown;
+}
+#d3{
+    color: sandybrown;
+}
