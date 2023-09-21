@@ -1,0 +1,40 @@
+.catdog{
+    background-color: white;
+    text-align:left;
+}
+.cat{
+    width: 150px;
+    height: 150px;
+    border: 2px solid white;
+}
+.dog{
+    color: red;
+    text-decoration: none;
+    
+}
+.catdog:hover > .cat{
+    border: 2px solid red;
+}
+.catdog:hover > .dog{
+    text-decoration: underline red;
+}
+.Caipirinha{
+    background-color: white;
+    text-align:center;
+}
+.Cachaca{
+    width: 150px;
+    height: 150px;
+    border: 2px solid white;
+}
+.Limonada{
+    color: green;
+    text-decoration: none;
+    
+}
+.Caipirinha:hover > .Cachaca{
+    border: 2px solid green;
+}
+.Caipirinha:hover > .Limonada{
+    text-decoration: underline green;
+}
