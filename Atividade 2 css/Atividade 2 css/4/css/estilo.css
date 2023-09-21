@@ -5,30 +5,31 @@ nav{
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     font-weight: bold;
-    padding: 3px;
+}
+table{
+border-collapse: collapse;
+padding: 1em;
+}
+td{
+    padding: 2em;
 }
 .swd {
-    padding: 1em;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 .spr{
-    padding: 1em;
     text-decoration: none;
     color: red;
 }
 .glv{
-    padding: 1em;
     text-decoration: none;
     color: green;
 }
 .lnc{
-    padding: 1em;
     text-decoration: none;
     color: orange;
 }
 .mac{
-    padding: 1em;
     text-decoration: none;
     color: blue;
 }
