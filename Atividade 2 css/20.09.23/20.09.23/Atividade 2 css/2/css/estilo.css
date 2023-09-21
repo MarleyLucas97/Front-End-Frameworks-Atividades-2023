@@ -1,40 +1,31 @@
-.catdog{
-    background-color: white;
-    text-align:left;
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
 }
-.cat{
-    width: 150px;
-    height: 150px;
-    border: 2px solid white;
-}
-.dog{
+.pet a{
     color: red;
     text-decoration: none;
-    
 }
-.catdog:hover > .cat{
-    border: 2px solid red;
-}
-.catdog:hover > .dog{
-    text-decoration: underline red;
-}
-.Caipirinha{
-    background-color: white;
-    text-align:center;
-}
-.Cachaca{
-    width: 150px;
-    height: 150px;
-    border: 2px solid white;
-}
-.Limonada{
+.drink a{
     color: green;
     text-decoration: none;
-    
 }
-.Caipirinha:hover > .Cachaca{
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+}
+.cat:hover > .fish,  .dog:hover > .lizzard{
+    border: 2px solid red;
+}
+.cat:hover > .monkey, .dog:hover >  .habbit{
+    text-decoration: underline red;
+}
+.cachaca:hover > .caipirinha, .limonada:hover > .suco{
     border: 2px solid green;
 }
-.Caipirinha:hover > .Limonada{
+.cachaca:hover > .negroni, .limonada:hover > .nescau{
     text-decoration: underline green;
 }
