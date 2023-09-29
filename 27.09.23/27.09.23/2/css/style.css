@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cat{
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+#c1 {
+    clear: both;
+}

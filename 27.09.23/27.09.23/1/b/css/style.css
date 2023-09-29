@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   width: 900px;
+   height: 900px;
+}
+div{
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+#monkey1{
+    background-color: tomato;
+    width: 33%;
+}
+#monkey2{
+    background-color:aqua;
+    width: 33%;
+}
+#monkey3{
+    background-color:cornflowerblue;
+    width: 33%;
+}

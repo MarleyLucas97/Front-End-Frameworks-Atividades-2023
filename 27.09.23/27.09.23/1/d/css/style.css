@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+#snake1{
+    background-color:darkgoldenrod;
+}
+#snake2{
+    background-color:slategrey;
+}
+#snake3{
+    background-color:brown;
+    clear: both;
+}
